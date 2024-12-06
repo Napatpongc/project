@@ -1,7 +1,7 @@
-# project
+# คำนวนรูปทรงเรขาคณิต 2/3 มิติ และ การฝึกโจทย์คณิตศาสตร์
 วิธีโหลด
  -การ run โดยใช้ intellij
- 1.กด Download ZIP
+ 1 .กด Download ZIP
  2.แตกไฟล์
  3.คลิก project-main
  4.นำโฟเดอร์ src ของเรานำไปใส่ในโฟเดอร์ project ของโปรแกรม intellij idea
